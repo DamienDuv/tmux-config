@@ -27,8 +27,8 @@ Then start tmux and press `Ctrl+Space I` to install plugins.
 
 | Key | Action |
 |-----|--------|
-| `prefix + "` | Split pane horizontally |
-| `prefix + %` | Split pane vertically |
+| `prefix + -` | Split pane horizontally |
+| `prefix + \|` | Split pane vertically |
 | `prefix + c` | Create new window |
 | `prefix + x` | Close current pane |
 | `prefix + &` | Close current window |
