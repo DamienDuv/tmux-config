@@ -23,12 +23,25 @@ Then start tmux and press `Ctrl+Space I` to install plugins.
 | `prefix + h/j/k/l` | Navigate panes (vim-style) |
 | `Alt + Arrow keys` | Navigate panes (no prefix) |
 
+### Window & Pane Management
+
+| Key | Action |
+|-----|--------|
+| `prefix + "` | Split pane horizontally |
+| `prefix + %` | Split pane vertically |
+| `prefix + c` | Create new window |
+| `prefix + x` | Close current pane |
+| `prefix + &` | Close current window |
+| `prefix + z` | Toggle pane zoom |
+
 ### Window Navigation
 
 | Key | Action |
 |-----|--------|
 | `Shift + Left/Right` | Switch windows |
 | `Alt + H/L` | Switch windows (vim-style) |
+| `prefix + n/p` | Next/previous window |
+| `prefix + [0-9]` | Switch to window by number |
 
 ## Plugins
 
