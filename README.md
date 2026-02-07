@@ -4,7 +4,7 @@ Personal tmux configuration with vim-style navigation and tokyo-night theme.
 
 ## Setup
 
-Run the setup script to install TPM (Tmux Plugin Manager):
+Run the setup script to install tmux (if needed), copy the config, and install TPM:
 
 ```bash
 ./setup.sh
